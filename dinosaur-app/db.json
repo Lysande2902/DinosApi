@@ -1,0 +1,279 @@
+{
+  "dinosaurs": [
+    {
+      "name": "Tyrannosaurus Rex",
+      "species": "T. rex",
+      "period": "Cretácico Superior",
+      "diet": "Carnívoro",
+      "length": 12.3,
+      "weight": 8.4,
+      "description": "Uno de los carnívoros terrestres más grandes de todos los tiempos. Poseía mandíbulas extremadamente poderosas con dientes de hasta 30 cm.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tyrannosaurus_Rex_Holotype.jpg/300px-Tyrannosaurus_Rex_Holotype.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Triceratops",
+      "species": "T. horridus",
+      "period": "Cretácico Superior",
+      "diet": "Herbívoro",
+      "length": 9,
+      "weight": 6,
+      "description": "Dinosaurio herbívoro con tres cuernos característicos y un gran volante óseo. Vivió en manadas y se alimentaba de plantas bajas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Triceratops_skeleton.jpg/300px-Triceratops_skeleton.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Velociraptor",
+      "species": "V. mongoliensis",
+      "period": "Cretácico Superior",
+      "diet": "Carnívoro",
+      "length": 2,
+      "weight": 0.015,
+      "description": "Pequeño dinosaurio carnívoro conocido por su inteligencia y agilidad. Poseía una garra retráctil en forma de hoz en cada pata trasera.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Velociraptor_dinoguy2.jpg/300px-Velociraptor_dinoguy2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Brachiosaurus",
+      "species": "B. altithorax",
+      "period": "Jurásico Superior",
+      "diet": "Herbívoro",
+      "length": 26,
+      "weight": 56,
+      "description": "Uno de los dinosaurios más altos que existieron. Su largo cuello le permitía alcanzar las copas de los árboles más altos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brachiosaurus_BW.jpg/300px-Brachiosaurus_BW.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Stegosaurus",
+      "species": "S. stenops",
+      "period": "Jurásico Superior",
+      "diet": "Herbívoro",
+      "length": 9,
+      "weight": 5,
+      "description": "Dinosaurio herbívoro reconocible por las placas óseas en su espalda y las púas en su cola. Tenía un cerebro muy pequeño en relación a su tamaño.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stegosaurus_stenops_sophie.jpg/300px-Stegosaurus_stenops_sophie.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Spinosaurus",
+      "species": "S. aegyptiacus",
+      "period": "Cretácico Medio",
+      "diet": "Carnívoro",
+      "length": 15,
+      "weight": 7.5,
+      "description": "El dinosaurio carnívoro más grande conocido. Poseía una gran vela dorsal y se cree que era semi-acuático, alimentándose principalmente de peces.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spinosaurus_aegyptiacus.png/300px-Spinosaurus_aegyptiacus.png"
+    },
+    {
+      "id": "7",
+      "name": "Ankylosaurus",
+      "species": "A. magniventris",
+      "period": "Cretácico Superior",
+      "diet": "Herbívoro",
+      "length": 6.5,
+      "weight": 6,
+      "description": "Dinosaurio acorazado con placas óseas y una cola con una maza. Su armadura lo protegía de los depredadores más grandes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ankylosaurus_magniventris.jpg/300px-Ankylosaurus_magniventris.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Diplodocus",
+      "species": "D. carnegii",
+      "period": "Jurásico Superior",
+      "diet": "Herbívoro",
+      "length": 27,
+      "weight": 15,
+      "description": "Uno de los dinosaurios más largos. Su cola en forma de látigo podría haber sido usada como defensa contra depredadores.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Diplodocus_carnegii.jpg/300px-Diplodocus_carnegii.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Pteranodon",
+      "species": "P. longiceps",
+      "period": "Cretácico Superior",
+      "diet": "Carnívoro",
+      "length": 1.8,
+      "weight": 0.025,
+      "description": "Reptil volador con una envergadura de hasta 7 metros. Se alimentaba principalmente de peces que capturaba en vuelo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pteranodon_longiceps.jpg/300px-Pteranodon_longiceps.jpg"
+    },
+    {
+      "name": "Allosaurus",
+      "species": "A. fragilis",
+      "period": "Jurásico Superior",
+      "diet": "Carnívoro",
+      "length": 9.7,
+      "weight": 2.3,
+      "description": "Depredador ápice del Jurásico. Cazaba en manadas y atacaba dinosaurios mucho más grandes que él.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Allosaurus_fragilis.jpg/300px-Allosaurus_fragilis.jpg",
+      "id": "10"
+    },
+    {
+      "id": "11",
+      "name": "Parasaurolophus",
+      "species": "P. walkeri",
+      "period": "Cretácico Superior",
+      "diet": "Herbívoro",
+      "length": 10,
+      "weight": 2.5,
+      "description": "Dinosaurio con pico de pato y una cresta tubular distintiva. Se cree que usaba su cresta para comunicarse mediante sonidos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Parasaurolophus_cyrtocristatus.jpg/300px-Parasaurolophus_cyrtocristatus.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Carnotaurus",
+      "species": "C. sastrei",
+      "period": "Cretácico Superior",
+      "diet": "Carnívoro",
+      "length": 7.5,
+      "weight": 1.5,
+      "description": "Carnívoro sudamericano con dos cuernos distintivos sobre los ojos. Era muy rápido y tenía brazos extremadamente pequeños.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Carnotaurus_sastrei.jpg/300px-Carnotaurus_sastrei.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Iguanodon",
+      "species": "I. bernissartensis",
+      "period": "Cretácico Inferior",
+      "diet": "Herbívoro",
+      "length": 10,
+      "weight": 3.5,
+      "description": "Uno de los primeros dinosaurios descubiertos. Poseía un pulgar en forma de púa que usaba para defenderse.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Iguanodon_bernissartensis.jpg/300px-Iguanodon_bernissartensis.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Pachycephalosaurus",
+      "species": "P. wyomingensis",
+      "period": "Cretácico Superior",
+      "diet": "Herbívoro",
+      "length": 4.5,
+      "weight": 0.45,
+      "description": "Dinosaurio con un cráneo extremadamente grueso. Se cree que los machos competían embistiendo sus cabezas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pachycephalosaurus.jpg/300px-Pachycephalosaurus.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Compsognathus",
+      "species": "C. longipes",
+      "period": "Jurásico Superior",
+      "diet": "Carnívoro",
+      "length": 1,
+      "weight": 0.003,
+      "description": "Uno de los dinosaurios más pequeños conocidos, del tamaño de un pollo. Era un cazador ágil de pequeños animales.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Compsognathus_longipes.jpg/300px-Compsognathus_longipes.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Argentinosauru",
+      "species": "A. huinculensis",
+      "period": "Cretácico Superior",
+      "diet": "Herbívoro",
+      "length": 35,
+      "weight": 80,
+      "description": "Posiblemente el dinosaurio más grande que haya existido. Sus vértebras medían más de 1.5 metros de altura.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Argentinosaurus_BW.jpg/300px-Argentinosaurus_BW.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Deinonychus",
+      "species": "D. antirrhopus",
+      "period": "Cretácico Inferior",
+      "diet": "Carnívoro",
+      "length": 3.4,
+      "weight": 0.073,
+      "description": "Raptor de tamaño medio con garras en forma de hoz. Cazaba en manadas y fue clave para la teoría de que los dinosaurios eran de sangre caliente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Deinonychus_antirrhopus.jpg/300px-Deinonychus_antirrhopus.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Therizinosaurus",
+      "species": "T. cheloniformis",
+      "period": "Cretácico Superior",
+      "diet": "Herbívoro",
+      "length": 5,
+      "weight": 5,
+      "description": "Dinosaurio con las garras más largas conocidas, de hasta 1 metro. A pesar de su apariencia aterradora, era herbívoro.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Therizinosaurus_BW.jpg/300px-Therizinosaurus_BW.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Mosasaurus",
+      "species": "M. hoffmannii",
+      "period": "Cretácico Superior",
+      "diet": "Carnívoro",
+      "length": 17,
+      "weight": 15,
+      "description": "Reptil marino gigante, no un dinosaurio técnicamente. Dominaba los océanos del Cretácico y se alimentaba de peces, tortugas y otros reptiles marinos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mosasaurus_hoffmanni.jpg/300px-Mosasaurus_hoffmanni.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Gallimimus",
+      "species": "G. bullatus",
+      "period": "Cretácico Superior",
+      "diet": "Omnívoro",
+      "length": 6,
+      "weight": 0.44,
+      "description": "Dinosaurio con aspecto de avestruz, uno de los más rápidos. Podía correr a velocidades de hasta 60 km/h.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gallimimus_bullatus.jpg/300px-Gallimimus_bullatus.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Styracosaurus",
+      "species": "S. albertensis",
+      "period": "Cretácico Superior",
+      "diet": "Herbívoro",
+      "length": 5.5,
+      "weight": 2.7,
+      "description": "Ceratopsiano con un volante espectacular adornado con seis cuernos largos. Vivía en manadas para protegerse de depredadores.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Styracosaurus_BW.jpg/300px-Styracosaurus_BW.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Oviraptor",
+      "species": "O. philoceratops",
+      "period": "Cretácico Superior",
+      "diet": "Omnívoro",
+      "length": 2,
+      "weight": 0.033,
+      "description": "Pequeño dinosaurio con pico y cresta. Contrario a su nombre ('ladrón de huevos'), cuidaba sus propios nidos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Oviraptor_BW.jpg/300px-Oviraptor_BW.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Kentrosaurus",
+      "species": "K. aethiopicus",
+      "period": "Jurásico Superior",
+      "diet": "Herbívoro",
+      "length": 4.5,
+      "weight": 1,
+      "description": "Pariente africano del Stegosaurus. Tenía placas en la parte delantera y púas largas en la parte trasera y cola.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kentrosaurus_BW.jpg/300px-Kentrosaurus_BW.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Giganotosaurus",
+      "species": "G. carolinii",
+      "period": "Cretácico Superior",
+      "diet": "Carnívoro",
+      "length": 13,
+      "weight": 8,
+      "description": "Uno de los carnívoros terrestres más grandes, incluso más grande que el T-Rex. Cazaba en el territorio que hoy es Argentina.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Giganotosaurus_BW.jpg/300px-Giganotosaurus_BW.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Microraptor",
+      "species": "M. gui",
+      "period": "Cretácico Inferior",
+      "diet": "Carnívoro",
+      "length": 0.77,
+      "weight": 0.001,
+      "description": "Pequeño dinosaurio con cuatro alas. Tenía plumas iridiscentes negras y podía planear entre los árboles.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microraptor_gui_holotype.jpg/300px-Microraptor_gui_holotype.jpg"
+    }
+  ]
+}

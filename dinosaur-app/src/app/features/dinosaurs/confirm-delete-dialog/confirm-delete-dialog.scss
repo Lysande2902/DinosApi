@@ -1,0 +1,17 @@
+mat-dialog-content {
+  min-width: 300px;
+  padding: 20px;
+
+  p {
+    margin: 10px 0;
+  }
+
+  strong {
+    color: var(--mat-sys-error);
+  }
+}
+
+mat-dialog-actions {
+  padding: 16px 24px;
+  gap: 8px;
+}
